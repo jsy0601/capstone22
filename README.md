@@ -8,6 +8,21 @@
 - 작품 소개: 관리자, 사용자를 나눈 마켓 형태의 웹 사이트
 
 ## [ 개발 일지 ]
+### (11월 22일)
+### 백엔드 개발 중심의 작품입니다.
+### 엔티티 관계도
+<img src="https://user-images.githubusercontent.com/70794506/203236702-6f4802b8-fbb7-490c-aa16-b5b0c83374f7.png" width="400">
+<br />
+### 결과 화면
+<img src="https://user-images.githubusercontent.com/70794506/203236201-51562a25-c8d3-468b-89cf-7125f75cd415.png" width="400">
+- 장바구니
+<img src="https://user-images.githubusercontent.com/70794506/203238040-3291a261-0f8f-4772-affd-ccca1ec7bb04.png" width="400'>
+- 구매내역
+<img src="https://user-images.githubusercontent.com/70794506/203238294-c43a4df4-4e98-4e6b-b02f-3fd54c37d49e.png" width="400">
+<br />
+- DB 예시
+<img src="https://user-images.githubusercontent.com/70794506/203236535-7b7c955e-2e6e-4370-bf26-640aeaa9ffce.png" width="400'>
+
 ### (11월 18일)
 - 주문 목록 조회, 취소
 - 장바구니 기능 구현 중
